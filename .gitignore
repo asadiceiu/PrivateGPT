@@ -1,0 +1,6 @@
+# create a standard gitignore file
+#
+.env
+*.pyc
+*.pyo
+*.log

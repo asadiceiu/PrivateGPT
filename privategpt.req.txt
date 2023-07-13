@@ -1,0 +1,13 @@
+langchain
+gpt4all
+chromadb
+urllib3
+pdfminer.six
+python-dotenv
+unstructured
+extract-msg
+tabulate
+pandoc
+pypandoc
+tqdm
+sentence_transformers
